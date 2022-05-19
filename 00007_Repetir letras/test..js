@@ -3,7 +3,7 @@ it("Si hacemos repetirLetras('hola', 2) debería retornar hhoollaa", function() 
   assert.deepEqual(resultado, 'hhoollaa',`repetirLetras('hola', 2) debería retornar 'hhoollaa' pero fue ${resultado}`);
 })
 
-it("Si hacemos repetirLetras('ada', 3) debería retornar aaadddaaa", function() {
-  let resultado = repetirLetras('ada', 3)
-  assert.deepEqual(resultado, 'aaadddaaa',`repetirLetras('ada', 3) debería retornar 'aaadddaaa' pero fue ${resultado}`);
+it("Si hacemos repetirLetras('ave', 3) debería retornar aaavvveee", function() {
+  let resultado = repetirLetras('ave', 3)
+  assert.deepEqual(resultado, 'aaavvveee',`repetirLetras('ave', 3) debería retornar 'aaavvveee' pero fue ${resultado}`);
 })
