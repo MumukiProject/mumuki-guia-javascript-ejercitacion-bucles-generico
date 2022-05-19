@@ -1,6 +1,6 @@
-it("Si hacemos esPalindromo('ada') debería retornar true", function() {
-  let resultado = esPalindromo('ada')
-  assert.deepEqual(resultado, true,`esPalindromo('ada') debería retornar true pero fue ${resultado}`);
+it("Si hacemos esPalindromo('ala') debería retornar true", function() {
+  let resultado = esPalindromo('ala')
+  assert.deepEqual(resultado, true,`esPalindromo('ala') debería retornar true pero fue ${resultado}`);
 })
 
 it("Si hacemos esPalindromo('lovelace') debería retornar false", function() {
