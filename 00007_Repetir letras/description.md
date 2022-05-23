@@ -6,7 +6,7 @@
 ム repetirLetras('ave', 3)
 'aaavvveee'
 ム repetirLetras('ah!', 5)
-aaaaahhhhh!!!!!'
+'aaaaahhhhh!!!!!'
 ム repetirLetras('basta', 1)
 'basta'
 ```
