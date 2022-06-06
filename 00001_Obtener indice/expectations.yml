@@ -2,4 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresFunction:obtenerIndice
+  inspection: Declares:obtenerIndice
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: obtenerIndice
+  inspection: Not:Uses:indexOf
