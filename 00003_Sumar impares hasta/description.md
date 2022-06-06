@@ -1,4 +1,4 @@
-> Definí una función `sumarImparesHasta` que reciba como argumento un número `numero` y que devuelva la suma de todos los impares empezando desde 0 hasta dicho `numero` inclusive.
+> Definí una función `sumarImparesHasta` que reciba como argumento un número y que devuelva la suma de todos los impares empezando desde 0 hasta dicho numero inclusive.
 >
 ```javascript
 ム sumarImparesHasta(5) // (1 + 3 + 5 = 9)
