@@ -1,4 +1,5 @@
-> Definí una función `obtenerIndice` que reciba como argumento un valor cualquiera `valor` y un array cualquiera `array` y devuelva el índice del _primer ítem_ con dicho valor en el array, o -1 si no hay ninguno.
+> Definí una función `obtenerIndice` que reciba como argumento un valor y un array y devuelva el índice del _primer ítem_ con dicho valor en el array, o -1 si no hay ninguno.
+>
 No vale usar la primitiva indexOf.
 >
 ```javascript
