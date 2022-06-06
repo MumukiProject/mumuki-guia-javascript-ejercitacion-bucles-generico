@@ -1,4 +1,4 @@
-> Definí una función `tieneBloque` que tome por parámetro un array `array` y devuelva si dicho `array` tiene un bloque de 3 o más ítems consecutivos idénticos.
+> Definí una función `tieneBloque` que tome por parámetro un array y nos diga si tiene un bloque de 3 o más ítems consecutivos idénticos.
 >
 ```javascript
 ム tieneBloque([1, 2, 3])
